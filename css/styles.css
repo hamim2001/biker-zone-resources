@@ -1,0 +1,9 @@
+.bike-banner{
+    background-image: url('../images/bike-1.png');
+    height: 100vh;
+  
+}
+.footer{
+    background-color: black;
+    background-size: 100% !important;
+}
